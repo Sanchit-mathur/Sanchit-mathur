@@ -55,3 +55,5 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-mathur)
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/sm2558?theme=auto&font=baloo&extension=activity)](https://leetcode.com/sm2558/)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sm2558&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
