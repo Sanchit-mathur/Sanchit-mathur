@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **People having the same interest but a different point of view.**
 
-- 🤝 I’m looking for help with **who really like to learn something new everyday!**
+- 🤝 I’m looking for help with **the ones' who really like to learn something new everyday!**
 
 - 💬 Ask me about **HTML, CSS, JS, DSA, Competitive Coding**
 
