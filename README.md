@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/sm2558?theme=auto&font=baloo&extension=activity)](https://leetcode.com/sm2558/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sanchit_mathur&theme=dark)](https://git.io/streak-stats)
+
