@@ -54,6 +54,5 @@ Here are some ideas to get you started:
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/sm2558?theme=auto&font=baloo&extension=activity)](https://leetcode.com/sm2558/)
 
-[![HackerRank Stats](https://Hackerrank.com/sm2558?theme=auto&font=baloo&extension=activity)](https://hackerrank.com/sm2558/)
 
 
