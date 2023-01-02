@@ -1,4 +1,7 @@
+<p align="center">
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/113260682/208312550-482d8780-f902-47dd-8699-f715b0d4c31e.gif)
+</p>
+
 
 
 <!--
