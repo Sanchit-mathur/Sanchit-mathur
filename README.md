@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <h1>About Me</h1>
 
 #include<life.h>
+
 void main()
+
 {
 while(noSuccess)
   tryAgain();
