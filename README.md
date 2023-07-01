@@ -24,19 +24,12 @@ Here are some ideas to get you started:
 <h1>About Me</h1>
 
 #include<life.h>
-
 void main()
-
 {
-  
-  while(noSuccess)
-    
-    tryAgain();
-  
-  while(Success)
-    
-    improve();
-
+while(noSuccess)
+  tryAgain();
+while(Success)
+  improve();
 }
 
 - 🔭 I’m currently working on **Student Result Management System**
