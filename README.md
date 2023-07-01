@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a passionate Cloud & FrontEnd Developer</h3>
 
 <h1>About Me</h1>
+
 ```
 #include<life.h>
 void main()
@@ -32,6 +33,8 @@ void main()
     improve();
 }
 ```
+
+
 
 
 - 🔭 I’m currently working on **Student Result Management System**
