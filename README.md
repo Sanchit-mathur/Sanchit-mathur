@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sanchit Mathur!</h1>
 <h3 align="center">I'm a passionate Cloud & FrontEnd Developer</h3>
 
-<h1>About Me</h1>
+<h1>About me 😊
+</h1>
 
 ```ruby
+
 #include<life.h>
 void main()
 {
